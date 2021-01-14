@@ -4,8 +4,19 @@ body{
 h3{
     color: tomato;
 }
+small{
+    font-size: 10px;
+}
+.cart-item img{
+    background-color: rgb(231, 46, 14);
+    width: 40%;
+}
 .nike-card{
     border: 0;
+    border-radius: 2em;
+}
+.casual img{
+    background-color: rgba(128, 128, 128, 0.37);
     border-radius: 2em;
 }
 .nike-card-footer{
@@ -14,5 +25,5 @@ h3{
 }
 .shoe-criteria{
     border: 0;
-    border-radius: 50%;
+    border-radius: 10px;
 }
