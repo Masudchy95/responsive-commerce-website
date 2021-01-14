@@ -1,0 +1,18 @@
+body{
+    color: teal;
+}
+h3{
+    color: tomato;
+}
+.nike-card{
+    border: 0;
+    border-radius: 2em;
+}
+.nike-card-footer{
+    background-color: white;
+    border: 0;
+}
+.shoe-criteria{
+    border: 0;
+    border-radius: 50%;
+}
